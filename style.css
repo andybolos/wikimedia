@@ -3,13 +3,12 @@ html, body {
     padding: 0;
     width: 100%;
     height: 100%;
-    background: #444;
 }
 
 #wrapper {
     margin: 0 auto;
     min-width: 670px;
-    max-width: 1280px;
+    max-width: 980px;
     background: #fff;
 }
 
@@ -62,5 +61,5 @@ ul {
 li {
     display: inline;
     padding: 0 40px;
-    
+
 }
