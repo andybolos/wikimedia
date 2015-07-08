@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #444;
+}
+
+#wrapper {
+    margin: 0 auto;
+    min-width: 670px;
+    max-width: 1280px;
+    background: #fff;
+}
+
+header {
+    font-size: 140%;
+    font-family: sans-serif;
+    padding: 20px 40px;
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+}
+
+.right {
+    text-align: right;
+}
+
+.guts {
+    text-align: justify;
+}
+
+.block_img {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.clear-fix {
+    clear: both;
+}
