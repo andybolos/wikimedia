@@ -45,3 +45,22 @@ a {
 .clear-fix {
     clear: both;
 }
+
+footer {
+    border-top: 1px grey solid;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+    font-size: 80%;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+li {
+    display: inline;
+    padding: 0 40px;
+    
+}
